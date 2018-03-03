@@ -26,7 +26,7 @@ Sample config for this sensor:
 
 ```
 "accessories": [
-	{
+    {
         "accessory": "HttpTemperature",
         "name": "Wifitemp",
         "url": "http://192.168.1.100/temp",

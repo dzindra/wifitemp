@@ -3,6 +3,7 @@
 #include <WiFiManager.h> 
 #include <TaskScheduler.h>
 #include <OneWire.h>
+#include <EEPROM.h>
 
 #define PIN_TEMP D4
 #define LOG_ENABLED 1

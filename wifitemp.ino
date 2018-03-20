@@ -3,6 +3,7 @@
 #include <WiFiManager.h> 
 #include <TaskScheduler.h>
 #include <OneWire.h>
+#include <ArduinoOTA.h>
 #include <EEPROM.h>
 
 #define PIN_TEMP D4
